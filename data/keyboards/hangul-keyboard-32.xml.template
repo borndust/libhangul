@@ -36,32 +36,32 @@
         <item key="0x3e" value="0x003e"/>  <!-- > → >  -->
         <item key="0x3f" value="0x003f"/>  <!-- ? → ?  -->
         <item key="0x40" value="0x0040"/>  <!-- @ → @  -->
-        <item key="0x41" value="0x11b7"/>  <!-- A → ᅟᅠᆷ -->
-        <item key="0x42" value="0x1172"/>  <!-- B → ᅟᅲ -->
-        <item key="0x43" value="0x11be"/>  <!-- C → ᅟᅠᆾ -->
-        <item key="0x44" value="0x11bc"/>  <!-- D → -->
-        <item key="0x45" value="0x11ae"/>  <!-- E → ᅟᅠᆮ -->
-        <item key="0x46" value="0x11af"/>  <!-- F → -->
-        <item key="0x47" value="0x11c2"/>  <!-- G → ᅟᅠᇂ -->
-        <item key="0x48" value="0x1169"/>  <!-- H → ᅟᅩ -->
-        <item key="0x49" value="0x1163"/>  <!-- I → ᅟᅣ -->
-        <item key="0x4a" value="0x1165"/>  <!-- J → ᅟᅥ -->
-        <item key="0x4b" value="0x1161"/>  <!-- K → ᅟᅡ -->
-        <item key="0x4c" value="0x1175"/>  <!-- L → ᅟᅵ -->
-        <item key="0x4d" value="0x1173"/>  <!-- M → ᅟᅳ -->
-        <item key="0x4e" value="0x116e"/>  <!-- N → ᅟᅮ -->
-        <item key="0x4f" value="0x1164"/>  <!-- O → ᅟᅤ -->
-        <item key="0x50" value="0x1168"/>  <!-- P → ᅟᅨ -->
-        <item key="0x51" value="0x11b8"/>  <!-- Q → ᅟᅠᆸ -->
-        <item key="0x52" value="0x11a8"/>  <!-- R → ᅟᅠᆨ -->
-        <item key="0x53" value="0x11ab"/>  <!-- S →  -->
-        <item key="0x54" value="0x11ba"/>  <!-- T → ᅟᅠᆺ -->
-        <item key="0x55" value="0x1167"/>  <!-- U → ᅟᅧ -->
-        <item key="0x56" value="0x11c1"/>  <!-- V → ᅟᅠᇁ -->
-        <item key="0x57" value="0x11bd"/>  <!-- W → ᅟᅠᆽ -->
-        <item key="0x58" value="0x11c0"/>  <!-- X → ᅟᅠᇀ -->
-        <item key="0x59" value="0x116d"/>  <!-- Y → ᅟᅭ -->
-        <item key="0x5a" value="0x11bf"/>  <!-- Z → ᅟᅠᆿ -->
+        <item key="0x41" value="0x11b7"/>  <!-- A → ᅟ% -->
+        <item key="0x42" value="0x1172"/>  <!-- B → ᅟ1 -->
+        <item key="0x43" value="0x11be"/>  <!-- C → ᅟ, -->
+        <item key="0x44" value="0x11bc"/>  <!-- D → * -->
+        <item key="0x45" value="0x11ae"/>  <!-- E → ᅟ" -->
+        <item key="0x46" value="0x11af"/>  <!-- F → - -->
+        <item key="0x47" value="0x11c2"/>  <!-- G → ᅟ0 -->
+        <item key="0x48" value="0x1169"/>  <!-- H → ᅟ= -->
+        <item key="0x49" value="0x1163"/>  <!-- I → ᅟ8 -->
+        <item key="0x4a" value="0x1165"/>  <!-- J → ᅟ4 -->
+        <item key="0x4b" value="0x1161"/>  <!-- K → ᅟ5 -->
+        <item key="0x4c" value="0x1175"/>  <!-- L → ᅟ6 -->
+        <item key="0x4d" value="0x1173"/>  <!-- M → ᅟ3 -->
+        <item key="0x4e" value="0x116e"/>  <!-- N → ᅟ2 -->
+        <item key="0x4f" value="0x1164"/>  <!-- O → ᅟ9 -->
+        <item key="0x50" value="0x1168"/>  <!-- P → ᅟ+ -->
+        <item key="0x51" value="0x11b8"/>  <!-- Q → ᅟ( -->
+        <item key="0x52" value="0x11a8"/>  <!-- R → ᅟ' -->
+        <item key="0x53" value="0x11ab"/>  <!-- S → / -->
+        <item key="0x54" value="0x11ba"/>  <!-- T → ᅟT -->
+        <item key="0x55" value="0x1167"/>  <!-- U → ᅟ7 -->
+        <item key="0x56" value="0x11c1"/>  <!-- V → ᅟ. -->
+        <item key="0x57" value="0x11bd"/>  <!-- W → ᅟ) -->
+        <item key="0x58" value="0x11c0"/>  <!-- X → ᅟ? -->
+        <item key="0x59" value="0x116d"/>  <!-- Y → ᅟY -->
+        <item key="0x5a" value="0x11bf"/>  <!-- Z → ᅟ@ -->
         <item key="0x5b" value="0x005b"/>  <!-- [ → [  -->
         <item key="0x5c" value="0x005c"/>  <!-- \ → \  -->
         <item key="0x5d" value="0x005d"/>  <!-- ] → ]  -->
