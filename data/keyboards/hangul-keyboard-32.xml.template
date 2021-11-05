@@ -39,9 +39,9 @@
         <item key="0x41" value="0x11b7"/>  <!-- A → ᅟᅠᆷ -->
         <item key="0x42" value="0x1172"/>  <!-- B → ᅟᅲ -->
         <item key="0x43" value="0x11be"/>  <!-- C → ᅟᅠᆾ -->
-        <item key="0x44" value="0x11bc"/>  <!-- D → ᅟᅠᆼ -->
+        <item key="0x44" value="0x11bc"/>  <!-- D → -->
         <item key="0x45" value="0x11ae"/>  <!-- E → ᅟᅠᆮ -->
-        <item key="0x46" value="0x11af"/>  <!-- F → ᅟᅠᆯ -->
+        <item key="0x46" value="0x11af"/>  <!-- F → -->
         <item key="0x47" value="0x11c2"/>  <!-- G → ᅟᅠᇂ -->
         <item key="0x48" value="0x1169"/>  <!-- H → ᅟᅩ -->
         <item key="0x49" value="0x1163"/>  <!-- I → ᅟᅣ -->
@@ -54,7 +54,7 @@
         <item key="0x50" value="0x1168"/>  <!-- P → ᅟᅨ -->
         <item key="0x51" value="0x11b8"/>  <!-- Q → ᅟᅠᆸ -->
         <item key="0x52" value="0x11a8"/>  <!-- R → ᅟᅠᆨ -->
-        <item key="0x53" value="0x11ab"/>  <!-- S → ᅟᅠᆫ -->
+        <item key="0x53" value="0x11ab"/>  <!-- S →  -->
         <item key="0x54" value="0x11ba"/>  <!-- T → ᅟᅠᆺ -->
         <item key="0x55" value="0x1167"/>  <!-- U → ᅟᅧ -->
         <item key="0x56" value="0x11c1"/>  <!-- V → ᅟᅠᇁ -->
@@ -68,32 +68,32 @@
         <item key="0x5e" value="0x005e"/>  <!-- ^ → ^  -->
         <item key="0x5f" value="0x005f"/>  <!-- _ → _  -->
         <item key="0x60" value="0x0060"/>  <!-- ` → `  -->
-        <item key="0x61" value="0x1106"/>  <!-- a → ᄆᅠ -->
-        <item key="0x62" value="0x1172"/>  <!-- b → ᅟᅲ -->
-        <item key="0x63" value="0x110e"/>  <!-- c → ᄎᅠ -->
-        <item key="0x64" value="0x110b"/>  <!-- d → ᄋᅠ -->
-        <item key="0x65" value="0x1103"/>  <!-- e → ᄃᅠ -->
-        <item key="0x66" value="0x1105"/>  <!-- f → ᄅᅠ -->
-        <item key="0x67" value="0x1112"/>  <!-- g → ᄒᅠ -->
-        <item key="0x68" value="0x1169"/>  <!-- h → ᅟᅩ -->
-        <item key="0x69" value="0x1163"/>  <!-- i → ᅟᅣ -->
-        <item key="0x6a" value="0x1165"/>  <!-- j → ᅟᅥ -->
-        <item key="0x6b" value="0x1161"/>  <!-- k → ᅟᅡ -->
-        <item key="0x6c" value="0x1175"/>  <!-- l → ᅟᅵ -->
-        <item key="0x6d" value="0x1173"/>  <!-- m → ᅟᅳ -->
-        <item key="0x6e" value="0x116e"/>  <!-- n → ᅟᅮ -->
-        <item key="0x6f" value="0x1162"/>  <!-- o → ᅟᅢ -->
-        <item key="0x70" value="0x1166"/>  <!-- p → ᅟᅦ -->
-        <item key="0x71" value="0x1107"/>  <!-- q → ᄇᅠ -->
-        <item key="0x72" value="0x1100"/>  <!-- r → ᄀᅠ -->
-        <item key="0x73" value="0x1102"/>  <!-- s → ᄂᅠ -->
-        <item key="0x74" value="0x1109"/>  <!-- t → ᄉᅠ -->
-        <item key="0x75" value="0x1167"/>  <!-- u → ᅟᅧ -->
-        <item key="0x76" value="0x1111"/>  <!-- v → ᄑᅠ -->
-        <item key="0x77" value="0x110c"/>  <!-- w → ᄌᅠ -->
-        <item key="0x78" value="0x1110"/>  <!-- x → ᄐᅠ -->
-        <item key="0x79" value="0x116d"/>  <!-- y → ᅟᅭ -->
-        <item key="0x7a" value="0x110f"/>  <!-- z → ᄏᅠ -->
+        <item key="0x61" value="0x1106"/>  <!-- a → ᅟᅠᆼ -->
+        <item key="0x62" value="0x1172"/>  <!-- b → ᅟᅩ -->
+        <item key="0x63" value="0x110e"/>  <!-- c → ᄇᅠ -->
+        <item key="0x64" value="0x110b"/>  <!-- d → ᄀᅠ -->
+        <item key="0x65" value="0x1103"/>  <!-- e → ᄂᅠ -->
+        <item key="0x66" value="0x1105"/>  <!-- f → ᄋ -->
+        <item key="0x67" value="0x1112"/>  <!-- g → ᅟᅠᆫᅠ -->
+        <item key="0x68" value="0x1169"/>  <!-- h → ᅟᅠᆯᅟ -->
+        <item key="0x69" value="0x1163"/>  <!-- i → ㅓᅟ -->
+        <item key="0x6a" value="0x1165"/>  <!-- j → ᅟㅡ -->
+        <item key="0x6b" value="0x1161"/>  <!-- k → ᅟㅣ -->
+        <item key="0x6c" value="0x1175"/>  <!-- l → ᅟㅐ -->
+        <item key="0x6d" value="0x1173"/>  <!-- m → ᅟᅟㅂ -->
+        <item key="0x6e" value="0x116e"/>  <!-- n → ᅟㅏ -->
+        <item key="0x6f" value="0x1162"/>  <!-- o → ᅟᅟㄷ -->
+        <item key="0x70" value="0x1166"/>  <!-- p → ᅟᅟㄱ -->
+        <item key="0x71" value="0x1107"/>  <!-- q → ᅟᅟㅁ -->
+        <item key="0x72" value="0x1100"/>  <!-- r → ㅁ -->
+        <item key="0x73" value="0x1102"/>  <!-- s → ㄷ -->
+        <item key="0x74" value="0x1109"/>  <!-- t → t -->
+        <item key="0x75" value="0x1167"/>  <!-- u → ᅟㅜ -->
+        <item key="0x76" value="0x1111"/>  <!-- v → ㅅ -->
+        <item key="0x77" value="0x110c"/>  <!-- w → ㄹ -->
+        <item key="0x78" value="0x1110"/>  <!-- x → ㅈ -->
+        <item key="0x79" value="0x116d"/>  <!-- y → ᅟy -->
+        <item key="0x7a" value="0x110f"/>  <!-- z → ᅟᅟㅅ -->
         <item key="0x7b" value="0x007b"/>  <!-- { → {  -->
         <item key="0x7c" value="0x007c"/>  <!-- | → |  -->
         <item key="0x7d" value="0x007d"/>  <!-- } → }  -->
