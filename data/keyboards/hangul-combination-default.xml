@@ -47,5 +47,18 @@
     <item first="0x1164" second="0x1174" result="0x1176"/>  <!-- ㅒ   + ㅜ   → ㅞ  -->
     #
     #
-    # 종성
+    # 종성 센소리 (종성 중 몇 안 되는 쉬운 조합)
+    <item first="0x11c7" second="0x11a7" result="0x11d0"/>  <!-- ㅇ   + ㄱ   → ㅋ  -->
+    <item first="0x11c7" second="0x11b3" result="0x11d1"/>  <!-- ㅇ   + ㄷ   → ㅌ  -->
+    <item first="0x11c7" second="0x11c3" result="0x11d2"/>  <!-- ㅇ   + ㅂ   → ㅍ  -->
+    # 종성 ㅎ
+    <item first="0x11c2" second="0x11b0" result="0x11d3"/>  <!-- ㅁ   + ㄴ   → ㅎ  -->
+    
+    
+    # 종성 3단 결합 ㅈ 
+    <item first="0x11d2" second="0x11b4" result="0x11c8"/>  <!-- ㅍ   + ㄹ   → ㅈ  -->
+    <item first="0x11c1" second="0x11c3" result="0x11c8"/>  <!-- ㅀ   + ㅂ   → ㅈ  -->
+    <item first="0x11b7" second="0x11c7" result="0x11c8"/>  <!-- ㄼ   + ㅇ   → ㅈ  -->
+    
+
 </combination>
