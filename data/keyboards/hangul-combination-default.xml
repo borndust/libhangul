@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <combination id="0">
+    # 초성 기준
     <item first="0x1100" second="0x1103" result="0x1118"/>  <!-- ᄀ   + ㄷ   → ㅎ  -->
+    <item first="0x1107" second="0x1112" result="0x1110"/>  <!-- ㅂ   + ㅈ   → ㅆ  -->
+    # 초성 센소리
     <item first="0x1111" second="0x1100" result="0x1115"/>  <!-- ㅇ   + ᄀ   → ㅋ  -->
     <item first="0x1111" second="0x1103" result="0x1116"/>  <!-- ㅇ   + ㄷ   → ㅌ  -->
     <item first="0x1111" second="0x1107" result="0x1117"/>  <!-- ㅇ   + ㅂ   → ㅍ  -->
     <item first="0x1111" second="0x1112" result="0x1114"/>  <!-- ㅇ   + ㅈ   → ㅊ  -->
-    <item first="0x1107" second="0x1112" result="0x1110"/>  <!-- ㅂ   + ㅈ   → ㅆ  -->
+    # 초성 된소리 
     <item first="0x1109" second="0x1100" result="0x1101"/>  <!-- ㅅ   + ㄱ   → ㄲ  -->
     <item first="0x1109" second="0x1103" result="0x1104"/>  <!-- ㅅ   + ㄷ   → ㄸ  -->
     <item first="0x1109" second="0x1107" result="0x1108"/>  <!-- ㅅ   + ㅂ   → ㅃ  -->
     <item first="0x1109" second="0x1112" result="0x1113"/>  <!-- ㅅ   + ㅈ   → ㅉ  -->
-    <item first="0x1109" second="0x11ak" result="0x11aj"/>  <!-- ㅅ   + ㄱ   → ㄲ  -->
+    # 중성 ㅡ ㅣ ㅐ 줄
+    <item first="0x1179" second="0x1181" result="0x1181"/>  <!-- ㅡ   + ㅣ   → ㅢ  -->
+    <item first="0x1179" second="0x1162" result="0x1166"/>  <!-- ㅡ   + ㅐ   → ㅔ  -->
+    <item first="0x1181" second="0x1162" result="0x1164"/>  <!-- ㅣ   + ㅐ   → ㅒ  -->
+    # 중성 ㅣ+ 
+    <item first="0x1169" second="0x1162" result="0x1173"/>  <!-- ㅗ   + ㅐ   → ㅛ  -->
+    <item first="0x1161" second="0x1162" result="0x1163"/>  <!-- ㅏ   + ㅐ   → ㅑ  -->
+    <item first="0x1174" second="0x1162" result="0x1178"/>  <!-- ㅜ   + ㅐ   → ㅠ  -->
+    <item first="0x1165" second="0x1162" result="0x1167"/>  <!-- ㅓ   + ㅐ   → ㅕ  -->
+    # 중성 + ㅣ
+    <item first="0x1169" second="0x1181" result="0x1172"/>  <!-- ㅗ   + ㅣ   → ㅚ  -->
+    <item first="0x1174" second="0x1181" result="0x1177"/>  <!-- ㅜ   + ㅣ   → ㅟ  -->
+    # 중성 3단 결합 ㅖ
+    <item first="0x1180" second="0x1162" result="0x1168"/>  <!-- ㅢ   + ㅐ   → ㅖ  -->
+    <item first="0x1166" second="0x1181" result="0x1168"/>  <!-- ㅢ   + ㅐ   → ㅖ  -->
+    <item first="0x1164" second="0x1179" result="0x1168"/>  <!-- ㅢ   + ㅐ   → ㅖ  -->
+    # 중성 3단 결합 ㅙ
+    # 중성 3단 결합 ㅞ
+    
+    
 </combination>
