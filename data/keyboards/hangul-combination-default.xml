@@ -3,7 +3,9 @@
 <combination id="0">
     #
     #
-    # 초성 기준 (조합이니 당연히 ㄱㄴㄷㄹㅁㅂㅅㅇㅈ 제외)
+    #
+    # 초성 조합 (조합이니 당연히 ㄱㄴㄷㄹㅁㅂㅅㅇㅈ 제외)
+    # 초성 기준 
     <item first="0x1100" second="0x1103" result="0x1118"/>  <!-- ᄀ   + ㄷ   → ㅎ  -->
     <item first="0x1107" second="0x1112" result="0x1110"/>  <!-- ㅂ   + ㅈ   → ㅆ  -->
     # 초성 센소리
@@ -18,7 +20,9 @@
     <item first="0x1109" second="0x1112" result="0x1113"/>  <!-- ㅅ   + ㅈ   → ㅉ  -->
     #
     #
-    # 중성 ㅡ ㅣ ㅐ 줄 (조합이니 당연히 ㅡㅣㅐㅗㅏㅜㅓ 제외)
+    # 
+    # 중성 조합 (조합이니 당연히 ㅡㅣㅐㅗㅏㅜㅓ 제외) 
+    # 중성 ㅡ ㅣ ㅐ 줄
     <item first="0x1179" second="0x1181" result="0x1181"/>  <!-- ㅡ   + ㅣ   → ㅢ  -->
     <item first="0x1179" second="0x1162" result="0x1166"/>  <!-- ㅡ   + ㅐ   → ㅔ  -->
     <item first="0x1181" second="0x1162" result="0x1164"/>  <!-- ㅣ   + ㅐ   → ㅒ  -->
@@ -47,7 +51,9 @@
     <item first="0x1164" second="0x1174" result="0x1176"/>  <!-- ㅒ   + ㅜ   → ㅞ  -->
     #
     #
-    # 종성 3단 결합 ㅈ (조합이니 당연히 ㅁㅇㅅㄷㄱㄴㄹㅂ 제외)
+    #
+    # 종성 조합 (조합이니 당연히 ㅁㅇㅅㄷㄱㄴㄹㅂ 제외)
+    # 종성 3단 결합 ㅈ
     <item first="0x11d2" second="0x11b4" result="0x11c8"/>  <!-- ㅍ   + ㄹ   → ㅈ  -->
     <item first="0x11c1" second="0x11c3" result="0x11c8"/>  <!-- ㅀ   + ㅂ   → ㅈ  -->
     <item first="0x11b7" second="0x11c7" result="0x11c8"/>  <!-- ㄼ   + ㅇ   → ㅈ  -->
@@ -59,10 +65,17 @@
     <item first="0x11c7" second="0x11c3" result="0x11d2"/>  <!-- ㅇ   + ㅂ   → ㅍ  -->
     # 종성 ㅎ
     <item first="0x11c2" second="0x11b0" result="0x11d3"/>  <!-- ㅁ   + ㄴ   → ㅎ  -->
+    # 종성 3단 결합 ㅊ
+    <item first="0x11b9" second="0x11a7" result="0x11c9"/>  <!-- ㅁ   + ㄴ   → ㅊ  -->
+    <item first="0x11b5" second="0x11b3" result="0x11c9"/>  <!-- ㅁ   + ㄴ   → ㅊ  -->
+    <item first="0x11b7" second="0x11c2" result="0x11c9"/>  <!-- ㅁ   + ㄴ   → ㅊ  -->
+    <item first="0x11a8" second="0x11b4" result="0x11c9"/>  <!-- ㅁ   + ㄴ   → ㅊ  -->
+    <item first="0x11b6" second="0x11c3" result="0x11c9"/>  <!-- ㅁ   + ㄴ   → ㅊ  -->
+
     # 종성 된소리
     <item first="0x11c2" second="0x11c3" result="0x11a8"/>  <!-- ㄼ   + ㅇ   → ㄲ  -->
     <item first="0x11c5" second="0x11b0" result="0x11c6"/>  <!-- ㄼ   + ㅇ   → ㅆ  -->
-    # 종성 3단 결합 ㅊ
+   
     
 
     
